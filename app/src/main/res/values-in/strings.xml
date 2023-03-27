@@ -7,4 +7,5 @@
     <string name="nougat">Permen Nougat</string>
     <string name="dial_log_message">Tidak dapat menyelesaikan aplikasi ACTION_DIAL.</string>
     <string name="action_language">Bahasa</string>
+    <string name="expired_label">Tanggal Kadaluwarsa:</string>
 </resources>
