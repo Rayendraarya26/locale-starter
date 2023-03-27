@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocaleText</string>
+    <string name="action_help">Tulung</string>
+    <string name="description">Nougat mangrupakeun kulawarga manisan dijieun kalayan gula atawa madu, kacang Anggang (almond, walnuts, pistachios, hazelnuts, sarta kacang macadamia nu ilahar), bodas endog dikocok, sarta buah candied kadang dicincang. Hal ieu dipaké dina rupa-rupa permen sareng coklat.</string>
+    <string name="nougat">Permén Nougat</string>
+    <string name="help_text">Upami anjeun peryogi bantosan, hubungi Departemen Dukungan kami.</string>
+    <string name="dial_log_message">Teu tiasa ngabéréskeun aplikasi pikeun ACTION_DIAL Intent.</string>
+    <string name="action_language">Basa</string>
+</resources>

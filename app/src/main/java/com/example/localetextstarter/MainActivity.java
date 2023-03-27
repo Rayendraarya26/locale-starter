@@ -66,6 +66,11 @@ public class MainActivity extends AppCompatActivity {
             startActivity(intent);
             return true;
         }
+        else if (id == R.id.action_language){
+            Intent languageIntent = new Intent(Settings.ACTION_LOCALE_SETTINGS);
+            startActivity(languageIntent);
+            return true;
+        }
         return super.onOptionsItemSelected(item);
     }
 }
